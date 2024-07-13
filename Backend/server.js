@@ -41,6 +41,7 @@ app.delete('/genres/:id', (req, res) => {
     });
 });
 
+
 // 2. Add Movie
 app.post('/movies', (req, res) => {
     const movie = req.body;
