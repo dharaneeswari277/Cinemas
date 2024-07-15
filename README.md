@@ -31,7 +31,7 @@ NMS Cinemas is a React-based web application for managing and viewing movies. It
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nms-cinemas.git
+git clone https://github.com/dharaneeswari277/Cinemas.git
 cd nms-cinemas
 Install dependencies
 bash
