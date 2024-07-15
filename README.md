@@ -32,13 +32,11 @@ NMS Cinemas is a React-based web application for managing and viewing movies. It
 
 ```bash
 git clone https://github.com/dharaneeswari277/Cinemas.git
-cd nms-cinemas
+cd Cinemas
+
 Install dependencies
-bash
-Copy code
 npm install
+
 Running the Application
-bash
-Copy code
 npm start
 The application will start on http://localhost:3000.
